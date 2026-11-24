@@ -1,0 +1,3 @@
+{
+  "comment": "Optional per-track start offset in seconds: where the best part of the track begins, so the music does not spend the clip on a quiet intro. Add one line per file, for example \"my-track.mp3\": 12"
+}

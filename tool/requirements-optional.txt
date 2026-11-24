@@ -1,0 +1,6 @@
+# Optional extras. Install only what you need.
+# anthropic: automatic clip picking with pick_clips.py (needs an API key).
+anthropic>=0.60.0
+# demucs: remove music already baked into a source ("strip_music": true).
+# This pulls in PyTorch, a download of well over 1 GB.
+demucs>=4.0.1

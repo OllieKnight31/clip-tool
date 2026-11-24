@@ -1,0 +1,25 @@
+{
+  "videos": [
+    {
+      "source_path": "/full/path/to/your-video.mp4",
+      "clips": [
+        {
+          "headline": "your bottleneck is not marketing",
+          "topic_slug": "bottleneck-not-marketing",
+          "keep_segments": [
+            {"start": 12.34, "end": 28.91, "reason": "opening reframe"},
+            {"start": 41.20, "end": 67.50, "reason": "the point lands"}
+          ]
+        },
+        {
+          "headline": "ten right buyers beat ten thousand",
+          "topic_slug": "ten-right-buyers",
+          "keep_segments": [
+            {"start": 301.02, "end": 344.60}
+          ],
+          "music_path": null
+        }
+      ]
+    }
+  ]
+}

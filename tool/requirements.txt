@@ -1,0 +1,3 @@
+# Core: local transcription. Everything else the tool needs is the Python
+# standard library, ffmpeg and Node.js.
+faster-whisper>=1.1.0

@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.cache/
+output/
+config.env
+selector/brand_voice.md
+render/node_modules/
+render/public/
+render/.props/
+google_token.json
+google_credentials.json
